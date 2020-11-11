@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rechner_bmayer</string>
+    <string name="wert_1">Wert 1</string>
+    <string name="anfangswert">0</string>
+    <string name="wert_2">Wert 2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mal">*</string>
+    <string name="dividieren">/</string>
+    <string name="berechnen">BERECHNEN</string>
+    <string name="ms">MS</string>
+    <string name="mr">MR</string>
+    <string-array name="spinner_array">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
