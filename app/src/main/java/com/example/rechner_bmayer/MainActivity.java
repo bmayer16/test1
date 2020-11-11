@@ -167,7 +167,7 @@ public class MainActivity extends AppCompatActivity {
         radioButtond.setActivated(true);
         //C
         Button berechnen = findViewById(R.id.button);
-        berechnen.setActivated(true);
+        berechnen.setActivated(true); j
     }
     */
 
